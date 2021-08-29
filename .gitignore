@@ -1,0 +1,7 @@
+### Node ###
+# Logs
+yarn-error.log*
+yarn.lock
+
+# Dependency directories
+node_modules/
