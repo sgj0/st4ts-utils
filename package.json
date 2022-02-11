@@ -2,7 +2,6 @@
   "name": "st4ts-utils",
   "version": "1.3.3",
   "description": "Fonctions pour st4ts",
-  "main": "index.js",
   "author": {
     "name": "sgj0",
     "email": "contact@sgj0.net",
